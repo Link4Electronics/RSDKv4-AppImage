@@ -1,9 +1,9 @@
 # RSDKv4-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/Link4Electronics/RSDKv4-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/Link4Electronics/RSDKv4-AppImage/releases/latest)
-[![CI Build Status](https://github.com//Link4Electronics/RSDKv4-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/Link4Electronics/RSDKv4-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/RSDKv4-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/RSDKv4-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/RSDKv4-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/RSDKv4-AppImage/releases/latest)
 
-* [Latest Stable Release](https://github.com/Link4Electronics/RSDKv4-AppImage/releases/latest)
+* [Latest Stable Release](https://github.com/pkgforge-dev/RSDKv4-AppImage/releases/latest)
 
 ---
 
