@@ -17,7 +17,7 @@
 
 </div>
 
-### ⚠️ `Data.rsdk`(unfortunately Sonic 1 or 2 one at a time) inside `~/.local/share/rsdkv4` ⚠️
+### ⚠️ `Data.rsdk`(unfortunately Sonic 1 or 2 one at a time) within `~/.local/share/rsdkv4` ⚠️
 
 ---
 
