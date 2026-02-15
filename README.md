@@ -17,9 +17,10 @@
 
 </div>
 
-### ⚠️ Sonic 1: `Data.rsdk` within `~/.local/share/sonic1` and run like ./RSDKv4-x-anylinux-x.AppImage --s1 ⚠️
-### ⚠️ Sonic 2: `Data.rsdk` within `~/.local/share/sonic2` and run like ./RSDKv4-x-anylinux-x.AppImage --s2 ⚠️
-### ⚠️ Can put `Data.rsdk` within `~/.local/share/rsdk4` in case don't want to run via terminal ⚠️
+### ⚠️ Place your Data.rsdk in the corresponding folder and run: ⚠️
+### ⚠️ Sonic 1: ~/.local/share/sonic1 (use --s1) ⚠️
+### ⚠️ Sonic 2: ~/.local/share/sonic2 (use --s2) ⚠️
+### ⚠️ Default: ~/.local/share/rsdkv4 (no flag needed) ⚠️
 
 ---
 
