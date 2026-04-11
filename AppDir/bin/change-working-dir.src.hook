@@ -1,4 +1,4 @@
-#!/bin/false
+#!/bin/sh
 
 case "$1" in
     --s1)
